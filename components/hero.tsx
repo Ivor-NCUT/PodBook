@@ -303,10 +303,10 @@ export function Hero() {
               </DialogHeader>
               <div className="flex flex-col gap-4 mt-4">
                 <Button onClick={handleSaveToNotion}>
-                  Save to Notion
+                  Save to Notion(up coming)
                 </Button>
                 <Button onClick={handleSaveToFeishu}>
-                  Save to Feishu
+                  Save to Feishu(up coming)
                 </Button>
               </div>
             </DialogContent>
